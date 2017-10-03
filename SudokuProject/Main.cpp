@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
 	stringstream sstream;
 	int n;
 	string str1, str2;
-
+	
 	str1 = argv[1];
 	str2 = argv[2];
 
